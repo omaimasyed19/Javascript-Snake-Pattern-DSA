@@ -7,7 +7,7 @@
  gridBox.innerHTML = "";
  gridBox.style.display = "flex";
  gridBox.style.flexDirection = "row";
- 
+
  let number = 1;
 
  for(let col = 0; col < colCount; col++){
